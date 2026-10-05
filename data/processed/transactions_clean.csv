@@ -1,0 +1,21 @@
+id,date,transaction_type,payment_type,gross_usd,note
+TID106517076,2026-03-02 20:04:14.208,Deposit,Balance operations,200.0,Demo Deposit
+TID110191485,2026-04-07 16:35:46.653,Investment Withdraw,Copy,-400.0,Investment in strategy Ophir - transfer to account 5264201
+TID110416079,2026-04-09 19:30:10.106,Investment Withdraw,Copy,-100.0,Investment in strategy PainGain cTrader - transfer to account 5266056
+TID111125078,2026-04-18 02:09:40.409,Investment Deposit,Copy,100.31,Investment withdrawal from strategy PainGain cTrader - transfer from Copy account 5266056
+TID112347575,2026-05-06 01:29:40.181,Investment Withdraw,Copy,-100.0,Investment in strategy JailBreak975 - transfer to account 5283789
+TID112748557,2026-05-11 21:42:29.790,Investment Deposit,Copy,49.49,Investment withdrawal from strategy Ophir - transfer from Copy account 5264201
+TID112815464,2026-05-12 19:14:34.319,Investment Withdraw,Copy,-400.0,Investment in strategy Ophir CT - transfer to account 5286823
+TID113336589,2026-05-19 21:22:08.489,Investment Deposit,Copy,49.99,Investment withdrawal from strategy JailBreak975 - transfer from Copy account 5283789
+TID113636276,2026-05-22 19:01:34.724,Investment Withdraw,Copy,-100.0,Investment in strategy PainGain cTrader - transfer to account 5266056
+TID113987290,2026-05-28 12:50:37.925,Investment Deposit,Copy,100.25,Investment withdrawal from strategy PainGain cTrader - transfer from Copy account 5266056
+TID114317860,2026-06-03 06:36:33.674,Withdrawal,Balance operations,-600.0,
+TID114317867,2026-06-03 06:36:53.050,Withdrawal,Balance operations,-109.0,
+TID114317868,2026-06-03 06:36:58.238,Withdrawal,Balance operations,-100.0,
+TID114689828,2026-06-08 17:52:41.660,Deposit,Balance operations,64.0,
+TID114689831,2026-06-08 17:52:46.937,Deposit,Balance operations,1.1,
+TID114689839,2026-06-08 17:52:54.241,Deposit,Balance operations,0.19,
+TID114793803,2026-06-09 22:46:25.234,Investment Deposit,Copy,388.23,Investment withdrawal from strategy Ophir CT - transfer from Copy account 5286823
+TID114839599,2026-06-10 04:54:26.062,Withdrawal,Balance operations,-415.0,
+TID114868890,2026-06-10 14:58:48.782,Deposit,Balance operations,24.6,
+TID114868892,2026-06-10 14:58:52.022,Deposit,Balance operations,0.2,

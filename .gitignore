@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+
+data/raw/statement-07_09actual.csv
+
+trading_journal.db
+output/*.csv
+
+.vscode/
+.idea/
+.env
+.env.*
